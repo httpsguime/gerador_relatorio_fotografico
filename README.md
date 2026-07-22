@@ -1,0 +1,1 @@
+# gerador_relatorio_fotografico
